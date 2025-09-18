@@ -1,4 +1,4 @@
-MLカード No.18 — Pandas：データ結合（merge, concat, join）
+MLカード No.19— Pandas：データ結合（merge, concat, join）
 
 📌 概要
 
